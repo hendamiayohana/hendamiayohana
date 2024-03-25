@@ -1,4 +1,4 @@
-<img src=banner.png alt="banner">
+<!--<img src=banner.png alt="banner">-->
 <h1 align="center">Hi! I,m Hendamia Yohana Sembiring</h1>
 <h3 align="center">An Informatics Engineering Student</h3>
 
